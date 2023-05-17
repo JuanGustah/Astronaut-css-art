@@ -1,6 +1,6 @@
 # Astronaut Css Art
 <p align="center">
-<img src="screenshot.png">
+<img src="sreenshot.png">
 </p>
 
 ## Why? 🤔
